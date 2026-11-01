@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="../../releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/abi98213/claude-desktop-swap?include_prereleases&label=download&color=d97757"></a>
+  <a href="../../actions/workflows/build.yml"><img alt="Build" src="https://github.com/abi98213/claude-desktop-swap/actions/workflows/build.yml/badge.svg"></a>
   <img alt="macOS 13+" src="https://img.shields.io/badge/macOS-13%2B-black?logo=apple">
   <img alt="Universal" src="https://img.shields.io/badge/Apple%20silicon%20%2B%20Intel-universal-555">
   <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-blue"></a>
